@@ -29,22 +29,9 @@ Spacy/
 
 ## 🛠️ Installation & Local Setup
 
-To play the game locally on your computer, ensure you have Python 3 installed, then follow these simple steps:
-
-1. **Clone or Download the Repository:**
-   Download this project directory to your local drive.
-
-2. **Install the Required Libraries:**
-   Open your terminal/command prompt inside the folder and install PyGame:
-   ```bash
-   pip install pygame
-   ```
-
-3. **Launch the Game:**
-   Run the primary script file via Python:
-   ```bash
-   python Spacy.py
-   ```
+To play the game locally on your computer, then follow these simple steps:
+1. Visit this url "https://ubaid-uan.itch.io/spacy" and download the zip file.
+2. Unpack the zip file and double click the .exe file and enjoy the game.
 
 ---
 
