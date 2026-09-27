@@ -6,13 +6,6 @@ This project was built from scratch as part of a coding milestone to track engin
 
 ---
 
-## 🚀 Project Tracking Metrics
-* **Total Tracked Hours:** 14 Hours, 56 Minutes
-* **Time Tracker Tool:** VS Code HackTime Extension
-* **Target Objective:** MacBook Air 13" Achievement Bracket
-
----
-
 ## 🛸 Game Features
 * **Dynamic Physics Engine:** Implements multi-entity bounding box collision routines to handle bouncing physics between multiple moving asteroids.
 * **Procedural Environments:** Features a parallax background layer alongside automated random scaling and placement loops for solar system planets (Earth, Mars, Jupiter, Venus, etc.).
