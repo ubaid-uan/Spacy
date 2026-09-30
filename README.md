@@ -1,41 +1,23 @@
-# 🌌 Spacy - 2D Space Arcade Game
+<img width="642" height="522" alt="image" src="https://github.com/user-attachments/assets/c6414c67-1a21-4e3f-9808-03dfc5274c8d" />
 
-A fast-paced, interactive 2D arcade game built entirely in Python using the PyGame framework. Dodge chaotic asteroid fields, navigate past scrolling deep-space planetary bodies, and survive as long as you can to rack up your score!
 
-This project was built from scratch as part of a coding milestone to track engineering hours for the **Stardance** competition.
+# Spacy - 2D Space Arcade Game
+A 2D space game with a dodging mechanism. Your goal is not to collide with asteroids. The game features realistic solar system planets to create 3D depth. Made in Python using the pygame library.
 
----
+# Features
+1. The game has the diffenret time of astroids, with collisions among themselves that change their path when they collide with each other.
+2. Offers 3D depth of space with cinematic planets of the solar system.
+3. Also have the sci fi music in the background, which evokes the feeling of space while playing the game.
+4. When the player starts the game, it has like it launching from the moon and exploring solar system.
 
-## 🛸 Game Features
-* **Dynamic Physics Engine:** Implements multi-entity bounding box collision routines to handle bouncing physics between multiple moving asteroids.
-* **Procedural Environments:** Features a parallax background layer alongside automated random scaling and placement loops for solar system planets (Earth, Mars, Jupiter, Venus, etc.).
-* **Advanced Game Loop:** Runs a stable frame-rate clock cycle separating user input event registers from screen asset rendering pipelines.
-* **Sci-Fi Audio Design:** Integrated audio mixing boards to handle concurrent background space soundtracks and tactical impact sound effects.
+# Installation & Local Setup
+To play the game locally on your computer, follow these simple steps:
 
----
+Visit this URL "https://ubaid-uan.itch.io/spacy" and download the zip file.
+Unpack the zip file and double click the .exe file, and enjoy the game.
 
-## 📁 Repository Structure
-```text
-Spacy/
-│
-├── Spacy.py              # Core Python game executable script
-├── README.md             # Project documentation & layout manual
-│
-├── Spacy/images/         # Graphic assets (Spaceship, asteroid textures)
-└── Spacy/sounds/         # Audio assets (Background score, impact FX)
-```
-
----
-
-## 🛠️ Installation & Local Setup
-
-To play the game locally on your computer, then follow these simple steps:
-1. Visit this url "https://ubaid-uan.itch.io/spacy" and download the zip file.
-2. Unpack the zip file and double click the .exe file and enjoy the game.
-
----
-
-## 🧠 Core Engineering Principles Learned
-* Managing complex nested state evaluation cycles inside infinite structural program loops.
-* Implementing vector velocity calculations (`vx`, `vy`) to translate screen coordinates dynamically over time.
-* Reading and troubleshooting comprehensive Python traceback errors to isolate system environment bottlenecks.
+# Controls
+1. A: Press [A] to go LEFT
+2. D: Press [D] to go RIGHT
+3. W: Press [W] to go UP
+4. S: Press [S] to go DOWN
